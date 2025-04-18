@@ -1,4 +1,5 @@
-## Hi there 👋
+## suh 👋
+- I do music and stuff
 
 <!--
 **pxrsec/pxrsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
